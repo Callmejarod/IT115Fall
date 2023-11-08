@@ -1,0 +1,11 @@
+{
+    "name": "Jarod Atienzo",
+    "age": 20,
+    "city": "Seattle,WA",
+    "interests": [
+        "Gym",
+        "Running",
+        "videogames"
+    ],
+    "is_student": true
+}
